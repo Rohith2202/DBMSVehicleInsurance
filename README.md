@@ -1,2 +1,2 @@
 # DBMSVehicleInsurance
-This repository contains the queries,database and report for the project.
+This repository contains the queries,database,triggers and  report for the project.
